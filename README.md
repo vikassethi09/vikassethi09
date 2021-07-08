@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-<!--
-**vikassethi09/vikassethi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sometimes you want numbered lists:
 
-Here are some ideas to get you started:
+1. One
+2. Two
+3. Three
+
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

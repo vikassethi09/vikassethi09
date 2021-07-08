@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-Sometimes you want numbered lists:
-
-1. One
-2. Two
-3. Three
-
-Sometimes you want bullet points:
-
-* Start a line with a star
-* Profit!
-
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

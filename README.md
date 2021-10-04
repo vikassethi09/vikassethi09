@@ -2,7 +2,7 @@
 
 *Finding tech that suits me*
 
-### Fav Quote
+
 ```99% of efforts are wasted```
 
 

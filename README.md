@@ -35,5 +35,5 @@
   <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma" style="vertical-align:top; margin:4px">
 </p>

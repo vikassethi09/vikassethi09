@@ -24,6 +24,11 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikassethi09&show_icons=true&theme=dark&locale=en" alt="vikasksethi" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vikassethi09&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=babayaga110&theme=tokyonight&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=babayaga110&theme=tokyonight&show_icons=true" />
+  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=babayaga110&theme=github" />
+</div>
 <h3>Languages and Tools</h3>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->

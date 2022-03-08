@@ -36,9 +36,9 @@
   <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/services/digitalocean.svg" alt="digital Ocean" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" alt="digital Ocean" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/powershell.svg" alt="digital Ocean" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio.svg" alt="digital Ocean" style="vertical-align:top; margin:4px">
-   <img src="  https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/vmware.svg" alt="digital Ocean" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio.svg" alt="vs code" style="vertical-align:top; margin:4px">
+  
   
 </p>

@@ -27,6 +27,11 @@
   <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=vikassethi09&theme=github" />
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vikassethi09&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
+<p align="center" >
+   <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassethi09&&show_icons=true&theme=tokyonight"/>
+  </a>
+</p>
 
 <h3>Languages and Tools</h3>
 <p align="center">

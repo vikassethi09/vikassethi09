@@ -24,7 +24,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikassethi09&show_icons=true&theme=dark&locale=en" alt="vikasksethi" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vikassethi09&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
-
+<h3>Languages and Tools</h3>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">  
@@ -35,4 +35,5 @@
   <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>" alt="npm" style="vertical-align:top; margin:4px">
 </p>

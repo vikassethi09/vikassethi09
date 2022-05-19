@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 , I am Vikas K. Sethi</h1>
 
-*Finding tech that suits me*
+*MERN Stack Developer *
 
 
 ```99% of efforts are wasted```
@@ -15,9 +15,9 @@
 
 ```Goaling towards fullstack developer```
 
-- 🔭 I’m currently working on **Vet.ai**
-- 🌱 I’m currently learning **MERN stack and DSA**
-- 💬 Ask me about **React js, HTML, CSS, Bootstrap, Material UI**
+
+- 🌱 I’m currently working on **MERN stack and DSA**
+- 💬 Ask me about **React js, HTML, CSS, Bootstrap, Material UI, Mongo DB, Express js**
 - 😄 Pronouns: **His/Him**
 - ⚡ i enjoy: **Talking over tech and long drives**
 
